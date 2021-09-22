@@ -1,1 +1,1 @@
-* Adicionado botão para limpar cache
+* Removido o sistema do IsItup?
